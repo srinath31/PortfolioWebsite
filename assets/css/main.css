@@ -1829,8 +1829,8 @@ input, select, textarea {
 					background-color: #3C5A98;
 				}
 
-				ul.social li a.fa-dribbble {
-					background-color: #C4376B;
+				ul.social li a.fa-envelope {
+					background-color: #DA2713;
 				}
 
 				ul.social li a.fa-linkedin {
@@ -1997,13 +1997,13 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #303030;
+			background-color: #f4f4f4;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
-				color: #fff;
+				columns: #282828;
 			}
 
 			.wrapper.style4 form input[type=text],
